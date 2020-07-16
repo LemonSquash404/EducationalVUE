@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "qs": "^6.9.4",
+    "qs.js": "^0.1.12",
+    "webpack": "latest"
+  }
+}
